@@ -11,6 +11,7 @@
 		8073B0932547526100790B55 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8073B0922547526100790B55 /* ContentView.swift */; };
 		8073B0952547526600790B55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8073B0942547526600790B55 /* Assets.xcassets */; };
 		8073B0982547526600790B55 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8073B0972547526600790B55 /* Preview Assets.xcassets */; };
+		8073B0A62547584700790B55 /* ColorUISLider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8073B0A52547584700790B55 /* ColorUISLider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		8073B0942547526600790B55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8073B0972547526600790B55 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8073B0992547526600790B55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8073B0A52547584700790B55 /* ColorUISLider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorUISLider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				8073B0902547526100790B55 /* SliderGameApp.swift */,
 				8073B0922547526100790B55 /* ContentView.swift */,
+				8073B0A52547584700790B55 /* ColorUISLider.swift */,
 				8073B0942547526600790B55 /* Assets.xcassets */,
 				8073B0992547526600790B55 /* Info.plist */,
 				8073B0962547526600790B55 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				8073B0932547526100790B55 /* ContentView.swift in Sources */,
 				8073B0912547526100790B55 /* SliderGameApp.swift in Sources */,
+				8073B0A62547584700790B55 /* ColorUISLider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
